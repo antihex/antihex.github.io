@@ -18,6 +18,12 @@ r/HardwareSwap Twitter bot
 
 # School Projects:
 ```
+Touch Analytics
+(Behaviorial Biometric Security)
+```
+[![Android_Phones-removebg-preview](https://user-images.githubusercontent.com/59896064/185461715-273f0105-d5bf-4c3a-9e1c-ce09c2eb96e0.png)](https://github.com/antihex/TouchAnalytics)
+
+```
 Android Phone Imaging App
 (Touchless fingerprint scanner)
 ```
