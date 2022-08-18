@@ -21,7 +21,8 @@ r/HardwareSwap Twitter bot
 Touch Analytics
 (Behaviorial Biometric Security)
 ```
-[![Android_Phones-removebg-preview](https://user-images.githubusercontent.com/59896064/185461715-273f0105-d5bf-4c3a-9e1c-ce09c2eb96e0.png)](https://github.com/antihex/TouchAnalytics)
+[![ic_launcher](https://user-images.githubusercontent.com/59896064/185467552-52556086-f28f-424c-bc55-8a415459d45e.png)
+](https://github.com/antihex/TouchAnalytics)
 
 ```
 Android Phone Imaging App
