@@ -6,7 +6,7 @@
 Bridge Card Game
 (Creating the card game bridge in python)
 ```
-[![istockphoto-522148755-612x612-removebg-preview (1)](https://user-images.githubusercontent.com/59896064/185465482-f4bee8f5-feef-49fb-adce-12acdbe6cb84.png)](https://github.com/antihex/Bridge.py/upload)
+[![211-2114570_fanned-out-cards-png-jpg-library-stock-pack-removebg-preview (1)](https://user-images.githubusercontent.com/59896064/185467152-d54d878d-f43a-4d40-96ac-c95b1d7b8603.png)](https://github.com/antihex/Bridge.py/upload)
 
 
 ```
@@ -41,4 +41,4 @@ DV-Hop Simulation
 (CU 2021 EE407 Project)
 ```
 
-[<img width="300" alt="DV-hop-removebg-preview" src="https://user-images.githubusercontent.com/59896064/185461698-66667fd2-f30f-49b2-bf59-7b89ea26eef1.png">](https://github.com/antihex/Wireless-Sensor-Networks-EE407)
+[![download](https://user-images.githubusercontent.com/59896064/185466747-5f884dbb-43d3-4815-adb9-e656b536b227.png)](https://github.com/antihex/Wireless-Sensor-Networks-EE407)
