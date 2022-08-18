@@ -1,43 +1,36 @@
 ## Welcome to GitHub Pages
 
+# Personal Projects:
 
-![Book logo](/antihex.github.io/assets/HardwareSwap.PNG)
+```
+Bridge Card Game
+(Creating the card game bridge in python)
+```
+[![istockphoto-522148755-612x612-removebg-preview (1)](https://user-images.githubusercontent.com/59896064/185465482-f4bee8f5-feef-49fb-adce-12acdbe6cb84.png)](https://github.com/antihex/Bridge.py/upload)
 
 
+```
+r/HardwareSwap Twitter bot   
+(for buying and selling used computer parts)                           
+```
+[![HardwareSwap](https://user-images.githubusercontent.com/59896064/185461709-180ec938-4ee6-4ec6-9d6e-facbd40c53bf.png)](https://github.com/antihex/HWS-TwitterBot)
 
 
-You can use the [editor on GitHub](https://github.com/antihex/antihex.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# School Projects:
+```
+Android Phone Imaging App
+(Touchless fingerprint scanner)
+```
+[![Android_Phones-removebg-preview](https://user-images.githubusercontent.com/59896064/185461715-273f0105-d5bf-4c3a-9e1c-ce09c2eb96e0.png)](https://github.com/antihex/Raw_Camera_App_with_Mask)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```Mango Open Source Project:
+(CU 2022 Junior Lab Project)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[![Mango-removebg-preview](https://user-images.githubusercontent.com/59896064/185461688-2d034875-d3cb-4f61-b092-30be9a9970f1.png)](https://github.com/antihex/Mango-OpenSource-Sensor-WebApp)
 
-### Jekyll Themes
+```DV-Hop Simulation
+(CU 2021 EE407 Project)
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antihex/antihex.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[<img width="300" alt="DV-hop-removebg-preview" src="https://user-images.githubusercontent.com/59896064/185461698-66667fd2-f30f-49b2-bf59-7b89ea26eef1.png">](https://github.com/antihex/Wireless-Sensor-Networks-EE407)
