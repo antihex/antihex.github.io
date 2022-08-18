@@ -23,13 +23,15 @@ Android Phone Imaging App
 ```
 [![Android_Phones-removebg-preview](https://user-images.githubusercontent.com/59896064/185461715-273f0105-d5bf-4c3a-9e1c-ce09c2eb96e0.png)](https://github.com/antihex/Raw_Camera_App_with_Mask)
 
-```Mango Open Source Project:
+```
+Mango Open Source Project:
 (CU 2022 Junior Lab Project)
 ```
 
 [![Mango-removebg-preview](https://user-images.githubusercontent.com/59896064/185461688-2d034875-d3cb-4f61-b092-30be9a9970f1.png)](https://github.com/antihex/Mango-OpenSource-Sensor-WebApp)
 
-```DV-Hop Simulation
+```
+DV-Hop Simulation
 (CU 2021 EE407 Project)
 ```
 
