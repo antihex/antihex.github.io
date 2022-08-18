@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-![Book logo](antihex.github.io/docs/assets/Android_Phones-removebg-preview.png)
+![Book logo](/antihex.github.io/assets/HardwareSwap.PNG)
 
 
 
