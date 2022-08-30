@@ -6,7 +6,7 @@
 Bridge Card Game
 (Creating the card game bridge in python)
 ```
-![Bridge](https://user-images.githubusercontent.com/59896064/187495427-527dfaeb-2bd1-4f81-9957-df27b50186e5.png)(https://github.com/antihex/Bridge.py)
+[![Bridge](https://user-images.githubusercontent.com/59896064/187495427-527dfaeb-2bd1-4f81-9957-df27b50186e5.png)](https://github.com/antihex/Bridge.py)
 
 
 ```
