@@ -6,7 +6,7 @@
 Bridge Card Game
 (Creating the card game bridge in python)
 ```
-[![211-2114570_fanned-out-cards-png-jpg-library-stock-pack-removebg-preview (1)]([https://user-images.githubusercontent.com/59896064/185467152-d54d878d-f43a-4d40-96ac-c95b1d7b8603.png)](https://github.com/antihex/Bridge.py)
+[![Bridge]([https://user-images.githubusercontent.com/59896064/185467152-d54d878d-f43a-4d40-96ac-c95b1d7b8603.png)](https://github.com/antihex/Bridge.py)
 
 
 ```
